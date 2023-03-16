@@ -1,0 +1,81 @@
+{
+	"Ads": [{
+		"select_main_ads": "FACEBOOK",
+		"select_backup_ads": "ADMOB",
+		"main_ads_banner": "1407202993351810_1476070939798348",
+		"main_ads_intertitial": "1407202993351810_1476070993131676",
+		"native_for_admob": "1407202993351810_1476071086465000",
+		"main_ads_rewards": "1407202993351810_1407203053351804",
+		"backup_ads_banner": "ca-app-pub-7681274870880383/7649155344",
+		"backup_ads_intertitial": "ca-app-pub-7681274870880383/1175208340",
+		"backup_ads_rewards": "ca-app-pub-7681274870880383/7273712832",
+		"survey_api_key": "107355779",
+		"interval_intertitial": 1,
+		"initialize_sdk": "107355779",
+		"initialize_sdk_backup_ads": "",
+		"high_paying_keyword_1": "Insurance",
+		"high_paying_keyword_2": "Electricity",
+		"high_paying_keyword_3": "Donate",
+		"high_paying_keyword_4": "Classes",
+		"high_paying_keyword_5": "Trading",
+		"status_app": "0",
+		"link_redirect": "https://"
+	}],
+
+	"More": [
+	],
+	"Skin": [
+	],
+	"Addons": [{
+		"id": 1,
+		"name_add": "SpiderMan: No Way Home",
+		"add_url": "https://archive.org/download/el-sando-spider-man-nwh/el-sando-spider-man-nwh.mcaddon",
+		"addB_url": "https://archive.org/download/el-sando-spider-man-nwh/el-sando-spider-man-nwh.mcaddon",
+		"addR_url": "#",
+		"view_add": "https://minecraft-pocket.com/uploads/posts/2021-12/1639396556_screenshot20211212123554_1-520x245.png",
+		"des_add": "https://bangkit45.github.io/SpiderManMod1/SpiderMan1.html"
+	}, {
+		"id": 2,
+		"name_add": "SpiderMan No Way Home V2",
+		"add_url": "https://archive.org/download/el-sando-spider-man-nwh/spider-man-no-way-home-minecraft-addon.mcaddon",
+		"addB_url": "#",
+		"addR_url": "#",
+		"view_add": "https://minecraft-pocket.com/uploads/posts/2021-12/1639396557_spiderman-no-way-home-addon-minecraft_9.jpeg",
+		"des_add": "https://bangkit45.github.io/SpiderManMod2/SpiderMan2.html"
+	}, {
+		"id": 3,
+		"name_add": "Spider-Man No Way Home",
+		"add_url": "https://archive.org/download/el-sando-spider-man-nwh/no-way-home-addon.mcaddon",
+		"addB_url": "#",
+		"addR_url": "#",
+		"view_add": "https://minecraft-pocket.com/uploads/posts/2021-11/1637149073_spiderman-no-way-home-addon_3-1.png",
+		"des_add": "https://bangkit45.github.io/SpiderManMod3/SpiderMan3.html"
+	}, {
+		"id": 4,
+		"name_add": "Spider-Man Addon",
+		"add_url": "https://archive.org/download/el-sando-spider-man-nwh/spider-man.mcaddon",
+		"addB_url": "#",
+		"addR_url": "#",
+		"view_add": "https://minecraft-pocket.com/uploads/posts/2020-04/1587752775_spiderman-addon_1-520x245.png",
+		"des_add": "https://bangkit45.github.io/SpiderManMod4/SpiderMan4.html"
+	}, {
+		"id": 5,
+		"name_add": "Spider-Man: No Way Home Addon",
+		"add_url": "https://archive.org/download/el-sando-spider-man-nwh_202209/el-sando-spider-man-nwh.mcaddon",
+		"addB_url": "#",
+		"addR_url": "#",
+		"view_add": "https://minecraft-pocket.com/uploads/posts/2021-12/1640891153_minecraft-spiderman-no-way-home-addon-el-sando_7-1.png",
+		"des_add": "https://bangkit45.github.io/SpiderManMod5/SpiderMan5.html"
+	}, {
+		"id": 6,
+		"name_add": "SpiderMan: Into The CraftingVerse",
+		"add_url": "https://archive.org/download/el-sando-spider-man-nwh/spider-man-no-way-home-minecraft-addon.mcaddon",
+		"addB_url": "#",
+		"addR_url": "#",
+		"view_add": "https://minecraft-pocket.com/uploads/posts/2022-04/1649176248_when_1-520x245-1.png",
+		"des_add": "https://bangkit45.github.io/SpiderManMod6/SpiderMan6.html"
+	}
+	],
+	"Maps": [{
+			}]
+}
